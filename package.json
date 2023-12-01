@@ -18,7 +18,7 @@
     "build": "tsc",
     "format": "prettier --write \"src/**/*\"",
     "start": "node dist/gpt-toolbox.js",
-    "dev": "nodemon --watch src --ext ts --exec 'npm run build && npm start'"
+    "dev": "nodemon --watch src --ext ts --exec 'npm run build'"
   },
   "dependencies": {
     "dotenv": "^16.3.1",
