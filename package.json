@@ -1,6 +1,6 @@
 {
   "name": "gpt-toolbox",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "bin": {
     "gpt-toolbox": "./dist/gpt-toolbox.js"
   },
